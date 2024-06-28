@@ -3,10 +3,10 @@
 <p id="description">a real-time collaborative code editor leveraging ReactJs ExpressJs and WebSocket technologies to enable seamless collaboration among multiple users on the same codebase.</p>
 
 <h2>Project Screenshots:</h2>
-![image](https://github.com/AdityaKrSingh26/CodeX/assets/128071145/427fdd4e-1a56-42f4-8fa5-e791637de8e8)
-![image](https://github.com/AdityaKrSingh26/CodeX/assets/128071145/934be75e-096b-4d42-9a6e-fe7ad10079af)
 
+![image](https://github.com/AdityaKrSingh26/CodeX/assets/128071145/0278ef0b-e3e5-4dab-a9bd-5268b88a0ef8)
 ![image](https://github.com/AdityaKrSingh26/CodeX/assets/128071145/bd7377c9-f9ad-4384-b346-cc2860e7a736)
+
 
 
 <h2>🧐 Features</h2>
