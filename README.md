@@ -1,6 +1,6 @@
 <h1 align="center" id="title">CodeX</h1>
 
-<p id="description">a real-time collaborative code editor leveraging ReactJs ExpressJs and WebSocket technologies to enable seamless collaboration among multiple users on the same codebase.</p>
+<p id="description">A real-time collaborative code editor and online code compiler leveraging ReactJs ExpressJs and WebSocket to enable seamless collaboration among multiple users on the same codebase.</p>
 
 <h2>Project Screenshots:</h2>
 
@@ -13,11 +13,11 @@
 
 Here're some of the project's best features:
 
-*   Leveraged ReactJs Tailwind ExpressJs and WebSocket technologies for seamless collaboration
-*   Implemented features for users to join code editing rooms using unique IDs
-*   Facilitated efficient team collaboration and enhanced productivity
-*   User can write and run/compile code in diffrent languages - C++ , Java ,Pyhton, Javascript
-*   Enabled users to create share and join rooms easily
+*   Leveraged ReactJs Tailwind ExpressJs and WebSocket technologies for seamless collaboration.
+*   User can write and run/compile code in diffrent languages - C++ , Java ,Pyhton, Javascript.
+*   Implemented features for users to join code editing rooms using unique IDs.
+*   Facilitated efficient team collaboration and enhanced productivity.
+*   Enabled users to create share and join rooms easily.
   
 
 <h2>🛠️ Installation Steps:</h2>
@@ -63,7 +63,7 @@ npm run dev
 Technologies used in the project:
 
 *   ReactJs
-*   Tailwind
+*   TailwindCSS
 *   ExpressJs
 *   WebSocket
 *   Socket.io
