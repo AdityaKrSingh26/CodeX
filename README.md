@@ -3,9 +3,9 @@
 <p id="description">CodeX is a collaborative real-time code editor and chat platform. It allows multiple users to join a room, collaborate on code, and communicate via a built-in chat feature. The platform supports real-time code synchronization and language selection, making it ideal for pair programming, group coding sessions, and teaching.</p>
 
 <h2>Project Screenshots:</h2>
-
-
-
+<img src='https://i.postimg.cc/7LBN5rcy/Screenshot-from-2024-12-23-13-22-50.png' border='0' alt='Screenshot-from-2024-12-23-13-22-50' style="width: 100%;"/>
+<img src='https://i.postimg.cc/26jmkhW5/Screenshot-from-2024-12-23-13-25-35.png' border='0' alt='Screenshot-from-2024-12-23-13-22-50' style="width: 100%;"/>
+<img src='https://i.postimg.cc/L41RH9YL/Screenshot-from-2024-12-23-13-25-26.png' border='0' alt='Screenshot-from-2024-12-23-13-22-50' style="width: 100%;"/>
 
 
 <h2>🧐 Features</h2>
