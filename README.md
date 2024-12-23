@@ -1,6 +1,6 @@
 <h1 align="center" id="title">CodeX</h1>
 
-<p id="description">A real-time collaborative code editor and online code compiler leveraging ReactJs ExpressJs and WebSocket to enable seamless collaboration among multiple users on the same codebase.</p>
+<p id="description">CodeX is a collaborative real-time code editor and chat platform. It allows multiple users to join a room, collaborate on code, and communicate via a built-in chat feature. The platform supports real-time code synchronization and language selection, making it ideal for pair programming, group coding sessions, and teaching.</p>
 
 <h2>Project Screenshots:</h2>
 
@@ -15,8 +15,10 @@ Here're some of the project's best features:
 
 *   Leveraged ReactJs Tailwind ExpressJs and WebSocket technologies for seamless collaboration.
 *   User can write and run/compile code in diffrent languages - C++ , Java ,Pyhton, Javascript.
+*   Send and receive messages in real-time.
+*   View chat history for each room.
 *   Implemented features for users to join code editing rooms using unique IDs.
-*   Facilitated efficient team collaboration and enhanced productivity.
+*   Automatically manage active users and room states.
 *   Enabled users to create share and join rooms easily.
   
 
@@ -63,6 +65,8 @@ npm run dev
 Technologies used in the project:
 
 *   ReactJs
+*   Typescript
+*   Javascript
 *   TailwindCSS
 *   ExpressJs
 *   WebSocket
