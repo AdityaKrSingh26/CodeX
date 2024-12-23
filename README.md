@@ -4,8 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-![image](https://github.com/AdityaKrSingh26/CodeX/assets/128071145/0278ef0b-e3e5-4dab-a9bd-5268b88a0ef8)
-![image](https://github.com/AdityaKrSingh26/CodeX/assets/128071145/bd7377c9-f9ad-4384-b346-cc2860e7a736)
+
 
 
 
