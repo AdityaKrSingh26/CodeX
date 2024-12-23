@@ -7,10 +7,10 @@ export const compileCode = async (req, res) => {
     const { code, language, input } = req.body;
 
     const languageMapping = {
-        'C++': 'cpp17',
-        'Java': 'java',
-        'Javascript': 'nodejs',
-        'Python': 'python3'
+        'cpp': 'cpp17',
+        'java': 'java',
+        'javascript': 'nodejs',
+        'python': 'python3'
     };
 
     const script = {
