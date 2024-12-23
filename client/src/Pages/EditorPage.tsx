@@ -173,7 +173,7 @@ export default function App() {
   return (
     <div className="w-full h-screen flex flex-col bg-slate-50">
       <Header
-        roomName={`CodeX - ${roomId}`}
+        roomName={"CodeX"}
         username={username}
         users={clients}
         onUserSelect={handleUserSelect}
