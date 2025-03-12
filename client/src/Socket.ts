@@ -13,7 +13,7 @@ export const initSocket = () => {
         // console.log(BACKEND_URL)
         // return io(BACKEND_URL, options);
 
-        return io("http://localhost:3001", options);
+        return io("/", options);
 
     } catch (error) {
         console.log(error)

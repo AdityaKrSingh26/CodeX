@@ -38,7 +38,7 @@ export function CodeEditor({
       console.log('Language:', language);
 
       // Make API call
-      const response = await axios.post('http://localhost:3001/api/compile', {
+      const response = await axios.post('/api/compile', {
         code,
         language,
         input,
